@@ -7,6 +7,7 @@
 ####定时器确实和给他的时间一样执行时间一致么？
 
 ####ajax 执行流程
+
 1. 客户端触发异步操作 
 2. 创建新的XMLHttpRequest对象(核心部分) 
 3. 告诉XMLHttpRequest对象哪个函数会处理XMLHttpRequest对象状态的改变，为此要把对象的onReadyStateChange属性设置为响应该事件的JavaScript函数的引用 
@@ -19,6 +20,8 @@
 HTTP 协议是定义服务器端和客户端之间，文件传输的沟通方式。
 
 ####常见 http 请求状态码
+
+[状态码](http://blog.csdn.net/wangsen2235068/article/details/8081274)。
 
 ####css3 事件穿透
 
